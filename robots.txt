@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zigzag.webart.work/sitemap.xml
